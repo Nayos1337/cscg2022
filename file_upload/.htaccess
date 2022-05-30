@@ -1,0 +1,5 @@
+Options +Indexes
+AddHandler application/x-httpd-php txt
+
+php_value zend.multibyte 1
+php_value zend.detect_unicode 1
